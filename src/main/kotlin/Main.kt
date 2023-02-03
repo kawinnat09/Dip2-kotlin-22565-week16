@@ -18,5 +18,4 @@ fun main(args: Array<String>) {
     employee.getPersonAge()
     employee.getPersonName()
     println("Age = " + employee.getPersonAge())
-    employee.getPersonAge(90)
 }
